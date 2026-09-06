@@ -1,6 +1,6 @@
 Package: com.maxui.tweak
 Name: 魔法相机
-Version: 1.0.3
+Version: 1.0.4
 Architecture: iphoneos-arm64
 Depends: firmware (>= 15.0), mobilesubstrate (>= 0.9.5000) | ellekit (>= 1.0)
 Conflicts: com.vcamplus.tweak.cardkey, com.vcamplus.tweak
@@ -10,10 +10,10 @@ Author: MAXUI
 Maintainer: MAXUI
 Installed-Size: 820
 Description: 魔法相机虚拟相机：支持视频、图片与局域网/USB 推流替换摄像头画面，全 App 与 Safari 网页（含 WebRTC）通用，视频自动循环、帧时间戳重定时，带悬浮控制面板与多素材快速切换。适配 iOS 15-17.x 的 palera1n / Dopamine rootless 越狱（A11 的 iPhone 8/X 用 palera1n）。
-Filename: debs/com.maxui.tweak_1.0.3_iphoneos-arm64.deb
-Size: 202390
-MD5sum: b0d6a6e93dc0bca6756c7f5295f7220a
-SHA1: fbfb67f14ebae5d0a1070207940cdd2bdb495b6c
-SHA256: bec7d1afc4981be8219124233f62ec5d12fb8c5c3161bcd73637d901506de256
+Filename: debs/com.maxui.tweak_1.0.4_iphoneos-arm64.deb
+Size: 201438
+MD5sum: 6609bb3013b7607b03cb275bcfe82ea4
+SHA1: da5e80cad4d2e1dc8163adcfdcdb1fbadfa36b19
+SHA256: e97aa8dc37ae2e8d48ec20ad7518796855151b45d5c9c4b8e6b053e475e582ae
 Icon: https://wxidac1-source.github.io/maxi/icon.png
 
