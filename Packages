@@ -11,9 +11,9 @@ Maintainer: MAXUI
 Installed-Size: 820
 Description: 魔法相机虚拟相机：支持视频、图片与局域网/USB 推流替换摄像头画面，全 App 与 Safari 网页（含 WebRTC）通用，视频自动循环、帧时间戳重定时，带悬浮控制面板与多素材快速切换。适配 iOS 15-17.x 的 palera1n / Dopamine rootless 越狱（A11 的 iPhone 8/X 用 palera1n）。
 Filename: debs/com.maxui.tweak_1.0.7_iphoneos-arm64.deb
-Size: 203652
-MD5sum: 9538e49968a3fe8c9853c83ad2a9fcc5
-SHA1: 9c5508d3878e0b218eac4b2bac6be854d435f278
-SHA256: 4204d09d9452de8d10fa5203bcbed85afc36bcda1a911bb1e2c11bd6be35613e
+Size: 203876
+MD5sum: e268db1c0b815ee64d5ba6345d639795
+SHA1: 1d58e8827d4fa11e473d0874cea0f3cef025fe57
+SHA256: 25409650e89a2f2b96dbeec43bd020df3fdf3280e6564ba13b8300a1bb6bd635
 Icon: https://wxidac1-source.github.io/maxi/icon.png
 
