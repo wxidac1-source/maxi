@@ -6,13 +6,13 @@ Codename: stable
 Architectures: iphoneos-arm64
 Components: main
 Description: 魔法相机 MAXUI 软件源
-Date: Mon, 07 Sep 2026 13:36:03 UTC
+Date: Mon, 07 Sep 2026 14:05:46 UTC
 MD5Sum:
- b47f9245936658517342ba1a9aef6c34 983 Packages
- cc03124e2200719e90342ef2949a43af 746 Packages.gz
+ 3a076f707a707666340365dabe33425c 983 Packages
+ cb15c26936f09dd3482627d0d798e08c 747 Packages.gz
 SHA1Sum:
- d0a700b630cb0a17d606afad1f0a4eef20cfa7a4 983 Packages
- 1682120f830f373fcc32f872dea0512a120a86cc 746 Packages.gz
+ c9490116d2450e93634c08c54b3179746149de89 983 Packages
+ f80a0736fecd8e98732c53f35227d8afdf72236e 747 Packages.gz
 SHA256Sum:
- dcd73f9c13e58f1f0be02a7a5e1867ce1f7a6f4a734851951c46939032c25e44 983 Packages
- 7c83f0ca3d40d8db3266063012b2153b561721fbb46b0c66d17464485a12314c 746 Packages.gz
+ 1490087dba64f9ec8c802365def69954db0ade1462a9ad68aa982d2b5cfad841 983 Packages
+ e7e4ca9f63d42d4d967739b2074e1bf99ed1a274301e8d7bf7094332aa905a21 747 Packages.gz
